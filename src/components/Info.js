@@ -4,7 +4,7 @@ function Info() {
   return (
     <div className="flex justify-around items-center top-0 h-auto w-full z-9999 p-[1.8rem] md:p-[1.7rem] bg-slate-50 dark:bg-[#1d1d1d]">
       <section className="flex flex-col h-[86vh] md:h-[88vh] w-full">
-        <div className="flex items-center justify-center max-w-[107rem] mx-auto my-0 md:px-[4rem] md:w-full md:h-full">
+        <div className="flex items-center justify-center text-center max-w-[107rem] mx-auto my-0 md:px-[4rem] md:w-full md:h-full">
           <div className='flex justify-center items-center h-[70vh] md:h-[80vh]'>
             <div className='flex flex-col-reverse items-center justify-center gap-[2rem] md:flex-row md:gap-[10rem]'>
               <div className='flex flex-col max-w-[55rem]'>

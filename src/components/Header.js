@@ -6,7 +6,7 @@ export default function Header() {
       <nav className="nav font-semibold text-lg">
           <ul className="flex items-center gap-12 md:gap-[39rem] font-poppins">
               <li>
-                <h1 className="font-bold text-2xl">erenozcan.dev</h1>
+                <h1 className="font-bold text-2xl">loremipsum.dev</h1>
               </li>
               <li className="p-4 border-b-2 dark:border-b-2 border-gray-500 dark:border-gray-200 border-opacity-0 dark:border-opacity-0 hover:border-opacity-100 dark:hover:border-opacity-100 hover:text-gray-500 dark:hover:text-gray-100 duration-200 cursor-pointer">
                 <Switcher />
